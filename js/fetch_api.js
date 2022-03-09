@@ -1,5 +1,5 @@
 
-const blogUrl = "https://gameover.yggdrasildev.com//wp-json/wp/v2/posts/?per_page=100";
+const blogUrl = "https://gameover.yggdrasildev.com/wp-json/wp/v2/posts/?per_page=100";
 
 const corsFix = "https://noroffcors.herokuapp.com/" + blogUrl;
 
